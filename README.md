@@ -38,4 +38,4 @@ Este projeto é o desafio final da jornada de aprendizado de estruturas de repet
 gcc xadrez.c -o xadrez
 
 2. Execute
-```xadrez.exe
+xadrez.exe
